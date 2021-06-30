@@ -1214,4 +1214,8 @@ Connection ~ 9300 5100
 Wire Wire Line
 	9500 1500 9400 1500
 Connection ~ 9400 1500
+Text GLabel 5100 2300 3    50   Input ~ 0
+DP
+Text GLabel 5100 2200 1    50   Input ~ 0
+DN
 $EndSCHEMATC
